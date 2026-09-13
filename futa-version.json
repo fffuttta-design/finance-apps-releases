@@ -1,6 +1,6 @@
 {
-  "version": "1.0.607",
-  "buildNumber": "608",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/futa-v1.0.607/futa-finance-v1.0.607.apk",
-  "releaseNotes": "事業ホームに「会社の財布」（いま自由に使っていい額）を追加"
+  "version": "1.0.608",
+  "buildNumber": "609",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/futa-v1.0.608/futa-finance-v1.0.608.apk",
+  "releaseNotes": "会社の財布：変動の固定費（Claude・携帯など）を0円にせず見積もるように修正"
 }
