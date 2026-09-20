@@ -1,6 +1,6 @@
 {
-  "version": "0.2.117",
-  "buildNumber": "122",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v0.2.117/takuharu-finance-v0.2.117.apk",
-  "releaseNotes": "支出カテゴリに「飲み物」「お菓子」「家電・家具」「サプリ」を追加。過去の取引110件も振り分け済み。"
+  "version": "0.2.118",
+  "buildNumber": "123",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v0.2.118/takuharu-finance-v0.2.118.apk",
+  "releaseNotes": "使われていなかった「デート」カテゴリを削除。カテゴリの入れ忘れ14件（外食→Uber 9件など）も寄せ直しました。"
 }
