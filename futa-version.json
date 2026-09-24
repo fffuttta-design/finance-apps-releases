@@ -1,6 +1,6 @@
 {
-  "version": "1.0.612",
-  "buildNumber": "613",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/futa-v1.0.612/futa-finance-v1.0.612.apk",
-  "releaseNotes": "年収の記録：📎を押すと源泉徴収票などをGoogleドライブで開けるように"
+  "version": "1.0.613",
+  "buildNumber": "614",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/futa-v1.0.613/futa-finance-v1.0.613.apk",
+  "releaseNotes": "保存でデータが消える穴をふさぎました（見た目は変わりません）"
 }
