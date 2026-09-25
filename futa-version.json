@@ -1,6 +1,6 @@
 {
-  "version": "1.0.615",
-  "buildNumber": "616",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/futa-v1.0.615/futa-finance-v1.0.615.apk",
-  "releaseNotes": "使っていない画面を整理しました（見た目は変わりません）"
+  "version": "1.0.616",
+  "buildNumber": "617",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/futa-v1.0.616/futa-finance-v1.0.616.apk",
+  "releaseNotes": "口座残高の数え方を1つにしました（ホームに銀行とのずれを表示）"
 }
