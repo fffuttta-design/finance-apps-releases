@@ -1,6 +1,6 @@
 {
-  "version": "1.0.614",
-  "buildNumber": "615",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/futa-v1.0.614/futa-finance-v1.0.614.apk",
-  "releaseNotes": "業績・収支の数え方を直しました（固定費の二重計上を解消）"
+  "version": "1.0.615",
+  "buildNumber": "616",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/futa-v1.0.615/futa-finance-v1.0.615.apk",
+  "releaseNotes": "使っていない画面を整理しました（見た目は変わりません）"
 }
