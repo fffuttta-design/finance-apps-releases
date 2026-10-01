@@ -1,6 +1,6 @@
 {
-  "version": "1.0.618",
-  "buildNumber": "619",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/futa-v1.0.618/futa-finance-v1.0.618.apk",
-  "releaseNotes": "内部の部品を新しくしました（見た目や使い方は変わりません）"
+  "version": "1.0.619",
+  "buildNumber": "620",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/futa-v1.0.619/futa-finance-v1.0.619.apk",
+  "releaseNotes": "Android のビルド道具を更新（AGP 9.0.1 / Kotlin 2.3.20 / Gradle 9.1.0）。機能の変更はありません。"
 }
