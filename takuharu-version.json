@@ -1,6 +1,6 @@
 {
-  "version": "0.2.118",
-  "buildNumber": "123",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v0.2.118/takuharu-finance-v0.2.118.apk",
-  "releaseNotes": "使われていなかった「デート」カテゴリを削除。カテゴリの入れ忘れ14件（外食→Uber 9件など）も寄せ直しました。"
+  "version": "0.2.119",
+  "buildNumber": "124",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v0.2.119/takuharu-finance-v0.2.119.apk",
+  "releaseNotes": "Android のビルド道具を更新（AGP 9.0.1 / Kotlin 2.3.20 / Gradle 9.1.0）。機能の変更はありません。"
 }
