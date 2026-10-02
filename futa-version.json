@@ -1,6 +1,6 @@
 {
-  "version": "1.0.619",
-  "buildNumber": "620",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/futa-v1.0.619/futa-finance-v1.0.619.apk",
-  "releaseNotes": "Android のビルド道具を更新（AGP 9.0.1 / Kotlin 2.3.20 / Gradle 9.1.0）。機能の変更はありません。"
+  "version": "1.0.620",
+  "buildNumber": "621",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/futa-v1.0.620/futa-finance-v1.0.620.apk",
+  "releaseNotes": "「過去の支出」画面を追加（設定＞データ管理）。記録を始める前の買い物を年ごと・カテゴリごとに見られます。"
 }
