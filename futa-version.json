@@ -1,6 +1,6 @@
 {
-  "version": "1.0.620",
-  "buildNumber": "621",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/futa-v1.0.620/futa-finance-v1.0.620.apk",
-  "releaseNotes": "「過去の支出」画面を追加（設定＞データ管理）。記録を始める前の買い物を年ごと・カテゴリごとに見られます。"
+  "version": "1.0.621",
+  "buildNumber": "622",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/futa-v1.0.621/futa-finance-v1.0.621.apk",
+  "releaseNotes": "「過去の支出」に商品画像を表示（一覧の小さい画像・写真で並べる表示）。"
 }
