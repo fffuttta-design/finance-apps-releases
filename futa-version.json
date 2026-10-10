@@ -1,6 +1,6 @@
 {
-  "version": "1.0.621",
-  "buildNumber": "622",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/futa-v1.0.621/futa-finance-v1.0.621.apk",
-  "releaseNotes": "「過去の支出」に商品画像を表示（一覧の小さい画像・写真で並べる表示）。"
+  "version": "1.0.622",
+  "buildNumber": "623",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/futa-v1.0.622/futa-finance-v1.0.622.apk",
+  "releaseNotes": "起動してからホームの中身が出るまでを速くしました"
 }
