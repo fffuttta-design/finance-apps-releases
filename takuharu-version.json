@@ -1,6 +1,6 @@
 {
-  "version": "0.2.120",
-  "buildNumber": "125",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v0.2.120/takuharu-finance-v0.2.120.apk",
-  "releaseNotes": "画面の部品を3アプリで共通にしました（月の切り替え・ログイン・円グラフ・色）。見た目と動きは今までと同じです。"
+  "version": "0.2.121",
+  "buildNumber": "126",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v0.2.121/takuharu-finance-v0.2.121.apk",
+  "releaseNotes": "裏の部品を3アプリで共通にしました（更新の確認・ログイン・レシートのカメラ・Drive のフォルダ）。たくさんの取引をまとめて書き換えるときに、途中で失敗しないよう区切って書くようにしました。見た目と動きは今までと同じです。"
 }
