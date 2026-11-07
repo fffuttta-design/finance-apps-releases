@@ -1,6 +1,6 @@
 {
-  "version": "1.0.629",
-  "buildNumber": "630",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.629/myfinance-v1.0.629.apk",
-  "releaseNotes": "更新の画面を共通の部品（FlutterUpdateKit）に。ダウンロード中に MB も出るように。取引を消す処理に守りを足した。"
+  "version": "1.0.630",
+  "buildNumber": "631",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.630/myfinance-v1.0.630.apk",
+  "releaseNotes": "v1.0.630 取り込み・全削除の前の控えを、理由ごとに一番新しい1個は必ず残すように（PC版でも控えを取るように）"
 }
