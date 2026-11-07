@@ -1,6 +1,6 @@
 {
-  "version": "0.2.121",
-  "buildNumber": "126",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v0.2.121/takuharu-finance-v0.2.121.apk",
-  "releaseNotes": "裏の部品を3アプリで共通にしました（更新の確認・ログイン・レシートのカメラ・Drive のフォルダ）。たくさんの取引をまとめて書き換えるときに、途中で失敗しないよう区切って書くようにしました。見た目と動きは今までと同じです。"
+  "version": "0.2.122",
+  "buildNumber": "127",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v0.2.122/takuharu-finance-v0.2.122.apk",
+  "releaseNotes": "金額の入力欄で全角の数字も入り、3桁のカンマが付くように。更新の画面・Drive の保存を3アプリ共通の部品に。"
 }
