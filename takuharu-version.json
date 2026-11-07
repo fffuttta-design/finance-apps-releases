@@ -1,6 +1,6 @@
 {
-  "version": "0.2.122",
-  "buildNumber": "127",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v0.2.122/takuharu-finance-v0.2.122.apk",
-  "releaseNotes": "金額の入力欄で全角の数字も入り、3桁のカンマが付くように。更新の画面・Drive の保存を3アプリ共通の部品に。"
+  "version": "0.2.123",
+  "buildNumber": "128",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v0.2.123/takuharu-finance-v0.2.123.apk",
+  "releaseNotes": "更新の画面を共通の部品に（ダウンロード中に MB も出るように）。"
 }
