@@ -1,6 +1,6 @@
 {
-  "version": "1.0.13",
-  "buildNumber": "14",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/haru-v1.0.13/haru-finance-v1.0.13.apk",
-  "releaseNotes": "金額の入力欄で全角の数字も入り、3桁のカンマが付くように。更新の画面・Drive の保存を3アプリ共通の部品に。"
+  "version": "1.0.14",
+  "buildNumber": "15",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/haru-v1.0.14/haru-finance-v1.0.14.apk",
+  "releaseNotes": "更新の画面を共通の部品（FlutterUpdateKit）に。ダウンロード中に MB も出るように。"
 }
