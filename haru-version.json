@@ -1,6 +1,6 @@
 {
-  "version": "1.0.10",
-  "buildNumber": "11",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/haru-v1.0.10/haru-finance-v1.0.10.apk",
-  "releaseNotes": "Android のビルド道具を更新（AGP 9.0.1 / Kotlin 2.3.20 / Gradle 9.1.0）。機能の変更はありません。"
+  "version": "1.0.11",
+  "buildNumber": "12",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/haru-v1.0.11/haru-finance-v1.0.11.apk",
+  "releaseNotes": "画面の部品を3アプリで共通にしました（月の切り替え・ログイン・円グラフ・色）。見た目と動きは今までと同じです。"
 }
