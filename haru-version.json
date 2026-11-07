@@ -1,6 +1,6 @@
 {
-  "version": "1.0.12",
-  "buildNumber": "13",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/haru-v1.0.12/haru-finance-v1.0.12.apk",
-  "releaseNotes": "裏の部品を3アプリで共通にしました（更新の確認・ログイン・レシートのカメラ・Drive のフォルダ）。たくさんの取引をまとめて書き換えるときに、途中で失敗しないよう区切って書くようにしました。見た目と動きは今までと同じです。"
+  "version": "1.0.13",
+  "buildNumber": "14",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/haru-v1.0.13/haru-finance-v1.0.13.apk",
+  "releaseNotes": "金額の入力欄で全角の数字も入り、3桁のカンマが付くように。更新の画面・Drive の保存を3アプリ共通の部品に。"
 }
