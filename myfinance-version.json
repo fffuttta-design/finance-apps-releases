@@ -1,6 +1,6 @@
 {
-  "version": "1.0.630",
-  "buildNumber": "631",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.630/myfinance-v1.0.630.apk",
-  "releaseNotes": "v1.0.630 取り込み・全削除の前の控えを、理由ごとに一番新しい1個は必ず残すように（PC版でも控えを取るように）"
+  "version": "1.0.632",
+  "buildNumber": "633",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.632/myfinance-v1.0.632.apk",
+  "releaseNotes": "v1.0.632 入力のまちがいを欄の下の赤字にそろえた"
 }
