@@ -1,6 +1,6 @@
 {
-  "version": "0.2.123",
-  "buildNumber": "128",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v0.2.123/takuharu-finance-v0.2.123.apk",
-  "releaseNotes": "更新の画面を共通の部品に（ダウンロード中に MB も出るように）。"
+    "version":  "0.2.124",
+    "buildNumber":  "129",
+    "downloadUrl":  "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v0.2.124/takuharu-finance-v0.2.124.apk",
+    "releaseNotes":  "Gemini のキーを、初めて使うときに入れて端末の金庫にしまう形に"
 }
