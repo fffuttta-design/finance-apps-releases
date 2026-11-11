@@ -1,6 +1,6 @@
 {
-  "version": "1.0.637",
-  "buildNumber": "638",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.637/myfinance-v1.0.637.apk",
-  "releaseNotes": "通知バーのボタン・返信欄で答えられるようにした（JCB速報の分類を通知で聞く・入れた分の取り消し／訂正）"
+  "version": "1.0.638",
+  "buildNumber": "639",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.638/myfinance-v1.0.638.apk",
+  "releaseNotes": "通知バーのボタン・返信欄の答えが届かず、くるくるのまま止まっていたのを直した"
 }
