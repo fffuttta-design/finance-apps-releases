@@ -1,6 +1,6 @@
 {
-  "version": "1.0.638",
-  "buildNumber": "639",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.638/myfinance-v1.0.638.apk",
-  "releaseNotes": "通知バーのボタン・返信欄の答えが届かず、くるくるのまま止まっていたのを直した"
+  "version": "1.0.639",
+  "buildNumber": "640",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.639/myfinance-v1.0.639.apk",
+  "releaseNotes": "JCBの速報の通知を押すとレシートのカメラが開き、金額・日付・お店・JCBプラチナが入ったいつもの画面へ進むようにした"
 }
