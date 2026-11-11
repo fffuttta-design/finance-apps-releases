@@ -1,6 +1,6 @@
 {
-  "version": "1.0.633",
-  "buildNumber": "634",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.633/myfinance-v1.0.633.apk",
-  "releaseNotes": "v1.0.633 立替の振替の後始末・控えの確認・Drive の取り直し・Gemini のキーの入れ直し"
+  "version": "1.0.635",
+  "buildNumber": "636",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.635/myfinance-v1.0.635.apk",
+  "releaseNotes": "一致確認（月次決算で明細と帳簿を照らした記録）をカード・口座の画面とホームに出す"
 }
