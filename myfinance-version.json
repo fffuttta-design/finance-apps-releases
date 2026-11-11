@@ -1,6 +1,6 @@
 {
-  "version": "1.0.635",
-  "buildNumber": "636",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.635/myfinance-v1.0.635.apk",
-  "releaseNotes": "一致確認（月次決算で明細と帳簿を照らした記録）をカード・口座の画面とホームに出す"
+  "version": "1.0.636",
+  "buildNumber": "637",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.636/myfinance-v1.0.636.apk",
+  "releaseNotes": "一致確認の印：銀行の締めで引落の振替を足しただけで「照合後に変わった」にならないように"
 }
