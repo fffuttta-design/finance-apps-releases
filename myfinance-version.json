@@ -1,6 +1,6 @@
 {
-  "version": "1.0.639",
-  "buildNumber": "640",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.639/myfinance-v1.0.639.apk",
-  "releaseNotes": "JCBの速報の通知を押すとレシートのカメラが開き、金額・日付・お店・JCBプラチナが入ったいつもの画面へ進むようにした"
+  "version": "1.0.640",
+  "buildNumber": "641",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.640/myfinance-v1.0.640.apk",
+  "releaseNotes": "二村秘書がもう聞かなくてよいと知らせたら、通知バーから消すようにした"
 }
