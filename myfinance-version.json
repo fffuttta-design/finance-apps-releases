@@ -1,6 +1,6 @@
 {
-  "version": "1.0.636",
-  "buildNumber": "637",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.636/myfinance-v1.0.636.apk",
-  "releaseNotes": "一致確認の印：銀行の締めで引落の振替を足しただけで「照合後に変わった」にならないように"
+  "version": "1.0.637",
+  "buildNumber": "638",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.637/myfinance-v1.0.637.apk",
+  "releaseNotes": "通知バーのボタン・返信欄で答えられるようにした（JCB速報の分類を通知で聞く・入れた分の取り消し／訂正）"
 }
