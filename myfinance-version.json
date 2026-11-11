@@ -1,6 +1,6 @@
 {
-  "version": "1.0.632",
-  "buildNumber": "633",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.632/myfinance-v1.0.632.apk",
-  "releaseNotes": "v1.0.632 入力のまちがいを欄の下の赤字にそろえた"
+  "version": "1.0.633",
+  "buildNumber": "634",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.633/myfinance-v1.0.633.apk",
+  "releaseNotes": "v1.0.633 立替の振替の後始末・控えの確認・Drive の取り直し・Gemini のキーの入れ直し"
 }
