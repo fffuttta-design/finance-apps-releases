@@ -1,6 +1,6 @@
 {
-  "version": "1.0.640",
-  "buildNumber": "641",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.640/myfinance-v1.0.640.apk",
-  "releaseNotes": "二村秘書がもう聞かなくてよいと知らせたら、通知バーから消すようにした"
+  "version": "1.0.641",
+  "buildNumber": "642",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.641/myfinance-v1.0.641.apk",
+  "releaseNotes": "支出の金額に「-」を付けない（赤字で分かる）。返金・取り消しは緑の「+」"
 }
