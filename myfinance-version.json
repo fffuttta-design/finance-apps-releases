@@ -1,6 +1,6 @@
 {
-  "version": "1.0.642",
-  "buildNumber": "643",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.642/myfinance-v1.0.642.apk",
-  "releaseNotes": "ウォレット一覧にも締めの一致確認の印を出す"
+  "version": "1.0.643",
+  "buildNumber": "644",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.643/myfinance-v1.0.643.apk",
+  "releaseNotes": "振替に口座ごとの並び順を持たせ、口座の画面で銀行の明細と同じ順に並ぶようにした"
 }
