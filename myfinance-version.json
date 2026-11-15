@@ -1,6 +1,6 @@
 {
-  "version": "1.0.643",
-  "buildNumber": "644",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.643/myfinance-v1.0.643.apk",
-  "releaseNotes": "振替に口座ごとの並び順を持たせ、口座の画面で銀行の明細と同じ順に並ぶようにした"
+  "version": "1.0.645",
+  "buildNumber": "646",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.645/myfinance-v1.0.645.apk",
+  "releaseNotes": "JCBで使ってまだ入れていない支払いを、起動時に一覧で知らせる（入れると消える）"
 }
