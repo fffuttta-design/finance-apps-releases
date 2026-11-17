@@ -1,6 +1,6 @@
 {
-  "version": "1.0.645",
-  "buildNumber": "646",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.645/myfinance-v1.0.645.apk",
-  "releaseNotes": "JCBで使ってまだ入れていない支払いを、起動時に一覧で知らせる（入れると消える）"
+  "version": "1.0.648",
+  "buildNumber": "649",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v1.0.648/myfinance-v1.0.648.apk",
+  "releaseNotes": "スマホ版の更新を確認なしに（次の版から、ホームや別アプリへ移ったすきに入れ替わる）"
 }
