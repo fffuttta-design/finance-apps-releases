@@ -1,6 +1,6 @@
 {
-  "version": "0.2.128",
-  "buildNumber": "133",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v0.2.128/takuharu-finance-v0.2.128.apk",
-  "releaseNotes": "通知の登録を1段ずつ独立させ、途中で失敗してもトークンの保存まで止まらないようにした"
+  "version": "0.2.129",
+  "buildNumber": "134",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v0.2.129/takuharu-finance-v0.2.129.apk",
+  "releaseNotes": "スマホ版の更新を確認なしに（次の版から、ホームや別アプリへ移ったすきに入れ替わる）"
 }
