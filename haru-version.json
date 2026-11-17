@@ -1,6 +1,6 @@
 {
-  "version": "1.0.16",
-  "buildNumber": "17",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/haru-v1.0.16/haru-finance-v1.0.16.apk",
-  "releaseNotes": "調整の行のカテゴリ直しが、新しい端末で手で変えたカテゴリを戻さないようにした。レシート読み取りのキーは初めて使うときにアプリで入れる形に。"
+  "version": "1.0.19",
+  "buildNumber": "20",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/haru-v1.0.19/haru-finance-v1.0.19.apk",
+  "releaseNotes": "スマホ版の更新を確認なしに（次の版から、ホームや別アプリへ移ったすきに入れ替わる）"
 }
