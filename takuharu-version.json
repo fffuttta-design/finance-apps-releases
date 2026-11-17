@@ -1,6 +1,6 @@
 {
-    "version":  "0.2.125",
-    "buildNumber":  "130",
-    "downloadUrl":  "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v0.2.125/takuharu-finance-v0.2.125.apk",
-    "releaseNotes":  "チャットに日付の区切り・URLのプレビュー・削除を足しました。絵文字1つは大きく出ます。画像を貼り付けて送れます。"
+  "version": "0.2.128",
+  "buildNumber": "133",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v0.2.128/takuharu-finance-v0.2.128.apk",
+  "releaseNotes": "通知の登録を1段ずつ独立させ、途中で失敗してもトークンの保存まで止まらないようにした"
 }
