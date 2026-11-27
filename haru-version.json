@@ -1,7 +1,7 @@
 {
-  "version": "2.1.0",
-  "buildNumber": "2001000",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/haru-v2.1.0/haru-finance-v2.1.0.apk",
-  "releaseNotes": "変換マスタの編集・貼り付けの取り込み・カレンダー・カテゴリの推移を足した。",
-  "url": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/haru-v2.1.0/haru-finance-v2.1.0.apk"
+  "version": "2.1.1",
+  "buildNumber": "2001001",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/haru-v2.1.1/haru-finance-v2.1.1.apk",
+  "releaseNotes": "見た目と動きは変えずに、棒と曜日の見出しを共通部品に替えた。",
+  "url": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/haru-v2.1.1/haru-finance-v2.1.1.apk"
 }
