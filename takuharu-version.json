@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "buildNumber": "1000001",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v1.0.1/takuharu-finance-v1.0.1.apk",
-  "releaseNotes": "新しい版（Next.js）に入れ替えました。最初に Google でログインし直してください。レシートの読み取りの Gemini のキーを1回入れ直してください（お金の設定からも入れ直せます）。",
-  "url": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v1.0.1/takuharu-finance-v1.0.1.apk"
+  "version": "1.0.2",
+  "buildNumber": "1000002",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v1.0.2/takuharu-finance-v1.0.2.apk",
+  "releaseNotes": "レシートをまとめて直せるようにしました。カテゴリの並べ替え・足す・外すと、通知の種類ごとのオン・オフを設定（お金の設定）に足しました。",
+  "url": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v1.0.2/takuharu-finance-v1.0.2.apk"
 }
