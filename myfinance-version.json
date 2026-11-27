@@ -1,7 +1,7 @@
 {
-  "version": "2.0.0",
-  "buildNumber": "2000000",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v2.0.0/myfinance-v2.0.0.apk",
-  "releaseNotes": "新しい作りに入れ替え。最初に Google でログインし直し、AI のキーを1回入れ直してください",
-  "url": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v2.0.0/myfinance-v2.0.0.apk"
+  "version": "2.0.1",
+  "buildNumber": "2000001",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v2.0.1/myfinance-v2.0.1.apk",
+  "releaseNotes": "見た目と動きは変えずに、進み具合の棒を共通部品に替えた。",
+  "url": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/myfinance-v2.0.1/myfinance-v2.0.1.apk"
 }
