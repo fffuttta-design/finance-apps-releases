@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "buildNumber": "1001000",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v1.1.0/takuharu-finance-v1.1.0.apk",
-  "releaseNotes": "変換マスタの編集・貼り付けの取り込み・カレンダー・カテゴリの推移を足した。",
-  "url": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v1.1.0/takuharu-finance-v1.1.0.apk"
+  "version": "1.1.1",
+  "buildNumber": "1001001",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v1.1.1/takuharu-finance-v1.1.1.apk",
+  "releaseNotes": "見た目と動きは変えずに、棒・曜日の見出し・開け閉めを共通部品に替えた。",
+  "url": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v1.1.1/takuharu-finance-v1.1.1.apk"
 }
