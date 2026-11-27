@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "buildNumber": "1000002",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v1.0.2/takuharu-finance-v1.0.2.apk",
-  "releaseNotes": "レシートをまとめて直せるようにしました。カテゴリの並べ替え・足す・外すと、通知の種類ごとのオン・オフを設定（お金の設定）に足しました。",
-  "url": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v1.0.2/takuharu-finance-v1.0.2.apk"
+  "version": "1.1.0",
+  "buildNumber": "1001000",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v1.1.0/takuharu-finance-v1.1.0.apk",
+  "releaseNotes": "変換マスタの編集・貼り付けの取り込み・カレンダー・カテゴリの推移を足した。",
+  "url": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/takuharu-v1.1.0/takuharu-finance-v1.1.0.apk"
 }
