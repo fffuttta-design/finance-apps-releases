@@ -1,7 +1,7 @@
 {
-  "version": "2.0.0",
-  "buildNumber": "2000000",
-  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/haru-v2.0.0/haru-finance-v2.0.0.apk",
-  "releaseNotes": "新しい作りに入れ替え（見た目はほぼ同じ）。最初に Google でログインし直し、レシートの読み取りのキーを1回入れ直してください",
-  "url": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/haru-v2.0.0/haru-finance-v2.0.0.apk"
+  "version": "2.0.1",
+  "buildNumber": "2000001",
+  "downloadUrl": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/haru-v2.0.1/haru-finance-v2.0.1.apk",
+  "releaseNotes": "下のタブが操作バーに隠れる不具合を直した",
+  "url": "https://github.com/fffuttta-design/finance-apps-releases/releases/download/haru-v2.0.1/haru-finance-v2.0.1.apk"
 }
